@@ -1,0 +1,14 @@
+{
+  "name": "lfisher47-grub",
+  "version": "0.0.1",
+  "author": "Leah Fisher",
+  "summary": "grub STIG requirements",
+  "license": "Apache2",
+  "source": "git://github.com/lfisher47/puppet-grub",
+  "project_page": "https://github.com/lfisher47/puppet-grub",
+  "description": "grub STIG requirements",
+  "issues_url": "https://github.com/lfisher47/puppet-grub/issues",
+  "dependencies": [
+    {"name":"domcleal/augeasproviders"}
+  ]
+}
